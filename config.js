@@ -16,7 +16,7 @@ var config = {
     auto: false,
     title: 'Trials of a Northwestern Undergrad',
     subtitle: 'The Storytelling Template helps you create an awesome animated map story with ease.',
-    byline: 'By a I.M. Amapper',
+    byline: 'By Ari Levin',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
@@ -25,7 +25,7 @@ var config = {
             hidden: false,
             title: 'Welcome to Northwestern University',
             image: 'https://upload.wikimedia.org/wikipedia/commons/a/a8/Northwestern_Arch.jpg',
-            description: 'The first chapter contains a title, image, and camera view for San Francisco, California. Update the chapter data to make it your own.',
+            description: 'This is the Historic Weber Arch, contructed in the mid-1990s.',
             location: {
                 center: [-87.67579, 42.05548],
                 zoom: 14.39,
